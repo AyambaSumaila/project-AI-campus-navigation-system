@@ -1,11 +1,7 @@
-# Prototype of the Smart Campus Navigation System using Flask for the backend and HTML & CSS for the frontend. This prototype includes a # login page, a home page with an interactive map, and a facility information page.
-
-
-
-
 # Smart Campus Navigation System
 
 A web application (Prototype of) developed for the University of Cape Coast to help new students and visitors navigate the campus efficiently using real-time guidance and information about campus facilities.
+Prototype of the Smart Campus Navigation System using Flask for the backend and HTML & CSS for the frontend. This prototype includes a # login page, a home page with an interactive map, and a facility information page.
 
 ## Table of Contents
 
