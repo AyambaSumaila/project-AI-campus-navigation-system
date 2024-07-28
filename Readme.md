@@ -91,6 +91,13 @@ The Smart Campus Navigation System leverages computer vision and location-based 
     flask run
     ```
 
+## Project Screen shots 
+![Project Screenshot](images/sect-1.png)
+![Project Screenshot](images/sect-2.png)
+![Project Screenshot](images/sect-3.png)
+![Project Screenshot](images/sect-4.png)
+
+
 ## Usage
 
 1. Navigate to `http://127.0.0.1:5000/` in your web browser.
