@@ -92,11 +92,17 @@ The Smart Campus Navigation System leverages computer vision and location-based 
     ```
 
 ## Project Screen shots 
+### Home Page of the Application
 ![](Images/sect-1.png)
 
+
+### Map for uses to search for locations on campus
 ![](Images/sect-2.png)
 
 ![](Images/sect-3.png)
+
+
+### Login Page Page of the Application
 
 ![](Images/sect-4.png)
 
