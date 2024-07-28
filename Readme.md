@@ -94,11 +94,11 @@ The Smart Campus Navigation System leverages computer vision and location-based 
 ## Project Screen shots 
 ![](Images/sect-1.png)
 
-![](images/sect-2.png)
+![](Images/sect-2.png)
 
-![](images/sect-3.png)
+![](Images/sect-3.png)
 
-![](images/sect-4.png)
+![](Images/sect-4.png)
 
 
 ## Usage
