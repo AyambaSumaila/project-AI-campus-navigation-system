@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for # type: ign
 
 app = Flask(__name__)
 
-#Assumed facilities names
+#Assumed facilities names on campus
 facilities = [
     {"name": "Sam Jonah Library", "info": "Main library, Sam Jonah Library. Northern Campus opposite the Shuttle bus station; PMB, University of Cape Coast ; 302 21 30952/3 ; library@ucc.edu.gh ; CC-167-5810 ... UCC Journals; Research Guides; Library Policies; Support the Libraries; Library Spaces; Borrowing Materials; Library Services; Library hour. Semester "},
     {"name": "UCC main Hospital", "info": "The University of Cape Coast Hospital is located on the campus of the University of Cape Coast. The hospital provides services to both the university and the communities surrounding the university. The hospital has several sections: the outpatient clinic department (OPD), the medical laboratory, the male and female wards, and the children's ward."},
