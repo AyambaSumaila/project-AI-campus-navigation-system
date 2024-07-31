@@ -1,7 +1,12 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1>Login</h1>
+<div class="container">
+<br><br><hr>
+
+<h1>Welcome to Smart Campus Navigation </h1>   
+<h3>Your Hassle Free Application</h3>
+<h1>Please Login</h1>
 
 <form action="{{ url_for('login') }}" method="POST">
     <label for="username">Username:</label>
@@ -12,4 +17,6 @@
     <br>
     <button type="submit">Login</button>
 </form>
+
+</div>
 {% endblock %}

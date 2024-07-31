@@ -38,6 +38,19 @@ def login():
     return render_template('login.html')
 
 
+
+@app.route('/profile', methods=['GET', 'POST'])
+def profile():
+    if request.method == 'POST':
+        username = request.form['username']
+        password = request.form['password']
+        # Dummy authentication
+        if username == "admin" and password == "password":
+            return redirect(url_for('home'))
+    return render_template('profile.html')
+
+
+
 #This is the route for facility on campus
 @app.route('/facility/<name>')
 def facility(name):
